@@ -10,5 +10,10 @@
   "license": "MIT",
   "engines": {
     "atom": ">=0.174.0 <2.0.0"
-  }
+  },
+  "homepage": "https://github.com/pppp606/delete-plus",
+  "keywords": {
+    "atom",
+  },
+  "readmeFilename": "README.md",
 }
