@@ -1,0 +1,14 @@
+{
+  "name": "delete-plus",
+  "main": "./lib/delete-plus",
+  "version": "0.0.0",
+  "description": "Overwrite 'Delete to end of word' Symbol sandwiched strings is processing",
+  "activationCommands": {
+    "atom-workspace": "delete-plus:delete"
+  },
+  "repository": "https://github.com/pppp606/delete-plus",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=0.174.0 <2.0.0"
+  }
+}

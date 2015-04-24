@@ -1,0 +1,21 @@
+'context-menu':
+  'atom-text-editor': [
+    {
+      'label': 'Delete Delete-Plus'
+      'command': 'delete-plus:delete'
+    }
+  ]
+'menu': [
+  {
+    'label': 'Packages'
+    'submenu': [
+      'label': 'Delete-Plus'
+      'submenu': [
+        {
+          'label': 'Delete'
+          'command': 'delete-plus:delete'
+        }
+      ]
+    ]
+  }
+]
